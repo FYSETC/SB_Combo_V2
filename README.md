@@ -1,3 +1,8 @@
+> [!WARNING]
+> Do not use the SB1.3 cable directly with V2, their positive and negative poles are in the opposite position.
+> We strongly recommend replacing the cable.
+> If you do not want to replace the cable, please connect the black of the original 1.3 cable to the + pole and the red to the - pole.
+
 ![SB_Combo_V2_top](image/SB_Combo_V2_top.png)
 ![SB_CAN_Cable](image/SB_CAN_Cable.png)
 
