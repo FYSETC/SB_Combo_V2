@@ -45,4 +45,4 @@
 
 ## Documents:
 
-https://wiki.fysetc.com/SB_Combo_V2/
+https://wiki.fysetc.com/docs/SBComboV2
